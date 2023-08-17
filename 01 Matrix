@@ -1,3 +1,5 @@
+//BFS technique is used
+
 class Solution {
     public int[][] updateMatrix(int[][] grid) {
 
